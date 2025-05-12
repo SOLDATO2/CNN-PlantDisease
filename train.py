@@ -1,5 +1,5 @@
 # train.py
-
+# https://www.kaggle.com/datasets/emmarex/plantdisease?resource=download
 import os
 from PIL import Image
 import torch
